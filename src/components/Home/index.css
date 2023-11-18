@@ -1,0 +1,14 @@
+.Rowallign {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.IndividualAllign {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
